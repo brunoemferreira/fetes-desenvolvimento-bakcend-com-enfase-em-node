@@ -6,12 +6,12 @@
 <h3>📚 Disciplinas</h3>
 
 <ol>
-  <li>Primeiro</li>
-  <li>Segundo
-    <ol>
-      <li>Segundo.1</li>
+  <li><a id="1">Gerenciamento de Configuração em Projetos com Git</a></li>
+  <ol>
+      <li>Configurações Iniciais do Git</li>
       <li>Segundo.2</li>
     </ol>
+  <li>Segundo
   </li>
   <li>Terceiro</li>
 </ol>
