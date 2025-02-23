@@ -27,7 +27,7 @@ $ git config --list
 $ git config user.name
 ```
 
-_**Obtendo um repositório do Git**_
+_**Obtendo um repositório do Git**_ </br>
 Um repositório pode ser obtido de duas formas, a primeira e inicializando um repositório do zero a outra é clonando um repositório já existente. 
 
 ```bash
