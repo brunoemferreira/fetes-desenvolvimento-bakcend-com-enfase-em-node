@@ -9,8 +9,8 @@
 
 _**Configuração inicial do Git**_
 
-Localização do arquivo de configuração ( No Windows )
 ```bash
+# Localização do arquivo de configuração ( No Windows )
 $ C:\USERS\#USERS\.gitconfig
 
 # Configurações Iniciais ( Estas informações podem ser encontradas no arquivo .gitconfig )
