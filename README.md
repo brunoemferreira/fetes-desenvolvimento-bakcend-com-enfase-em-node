@@ -31,16 +31,16 @@
 
 
 
-<h4> <a id="1">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="2">Fundamentos do Desenvolvimento Back End com Node</a></h4>
-<h4> <a id="3">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="4">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="5">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="6">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="7">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="8">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="9">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="10">Gerenciamento de Configuração em Projetos com Git</a></h4>
+<h4> <a id="1">1. Gerenciamento de Configuração em Projetos com Git</a></h4>
+<h4> <a id="2">2. Fundamentos do Desenvolvimento Back End com Node</a></h4>
+<h4> <a id="3"></a></h4>
+<h4> <a id="4"></a></h4>
+<h4> <a id="5"></a></h4>
+<h4> <a id="6"></a></h4>
+<h4> <a id="7"></a></h4>
+<h4> <a id="8"></a></h4>
+<h4> <a id="9"></a></h4>
+<h4> <a id="10"></a></h4>
 <h4> <a id="11">Gerenciamento de Configuração em Projetos com Git</a></h4>
 <h4> <a id="12">Gerenciamento de Configuração em Projetos com Git</a></h4>
 
