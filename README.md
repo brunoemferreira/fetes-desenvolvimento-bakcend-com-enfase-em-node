@@ -29,9 +29,11 @@
 
 [12. Metodologias Ágeis em Projetos de Tecnologia](#12)
 
-
+</br>
+</br>
 
 <h4> <a id="1">1. Gerenciamento de Configuração em Projetos com Git</a></h4>
+
 _**Configuração inicial do Git**_
 
 ```bash
