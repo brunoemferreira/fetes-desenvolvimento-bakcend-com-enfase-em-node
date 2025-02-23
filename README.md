@@ -17,3 +17,7 @@
 * Metodologias Ativas: Perspectivas Teóricas e Práticas
 * Empreendedorismo para Negócios Digitais
 * Metodologias Ágeis em Projetos de Tecnologia
+
+
+<h4>Gerenciamento de Configuração em Projetos com Git</h4>
+
