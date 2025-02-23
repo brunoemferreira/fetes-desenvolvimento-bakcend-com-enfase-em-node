@@ -17,9 +17,12 @@ $ C:\USERS\#USERS\.gitconfig
 ```
 
 ```bash
-# 
-$
-
+# Configurações Iniciais ( Estas informações podem ser encontradas no arquivo .gitconfig )
+# Essas informações são importantes pois ficam vinculadas a cada commit efetuado
+# Informa um nome de usuário 
+$ git config --global user.name "Bruno Eduardo de Moura Ferreira"
+# Informa um email
+$ git config --global user.email brunoemf@gmail.com
 ```
 
 
