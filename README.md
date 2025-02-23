@@ -5,8 +5,8 @@
 
 <h3>📚 Disciplinas</h3>
 
-> Gerenciamento de Configuração em Projetos com Git
-> Fundamentos do Desenvolvimento Back End com Node
+* Gerenciamento de Configuração em Projetos com Git
+* Fundamentos do Desenvolvimento Back End com Node
 > Orientação a Objetos com Typescript no Node
 > Tdd e Integração Contínua com Gulp
 > Micro Services com Node
