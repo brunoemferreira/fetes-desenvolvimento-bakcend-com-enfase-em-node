@@ -9,7 +9,7 @@
 
 _**Configuração inicial do Git**_
 
-Localização do arquivo de configuração 
+Localização do arquivo de configuração ( No Windows )
 ```bash
 
 $ C:\USERS\#USERS\.gitconfig
@@ -23,6 +23,11 @@ $ C:\USERS\#USERS\.gitconfig
 $ git config --global user.name "Bruno Eduardo de Moura Ferreira"
 # Informa um email
 $ git config --global user.email brunoemf@gmail.com
+
+# Listar as configurações do Git
+$ git config --list
+
+
 ```
 
 
