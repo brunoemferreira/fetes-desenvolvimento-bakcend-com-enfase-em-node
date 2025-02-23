@@ -1,9 +1,6 @@
-# fetes-desenvolvimento-bakcend-com-enfase-em-node
-Curso de 
-
 <div align="center">
   <h1>Pós-Graduação Em Desenvolvimento Backend com Ênfase em Node</h1>
-  <h3>FETES - </h3> 
+  <h3>FETES</h3> 
 </div>
 
 <h3>Disciplinas</h3>
