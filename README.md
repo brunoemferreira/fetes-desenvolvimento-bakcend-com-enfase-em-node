@@ -5,6 +5,16 @@
 
 <h3>📚 Disciplinas</h3>
 
+1. asdfasdfasdfasdfasdfasdf
+   1.1. sdafasdfasdfasdfasdf
+   1.2. sadfasdfasdfasdfasdfasd
+2. asdfasdfasdfasdfasdfasdfasd
+3. asdfasdfasdfasdfasdf
+4. asdfasdfasdfasdfasdfas
+5. asdfasdfasdfasdfasdfasdf
+6. asdfasdfasdfasdfasdfasdf
+
+
 [1. Gerenciamento de Configuração em Projetos com Git](#1)
   [1.1. Configurações Iniciais do Git](#1.1)
 
