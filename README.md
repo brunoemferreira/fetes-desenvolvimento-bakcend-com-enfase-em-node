@@ -27,8 +27,15 @@ $ git config --list
 $ git config user.name
 ```
 
+_**Obtendo um repositório do Git**_
 
 ```bash
+# Inicializando um repositório
+
+```
+
+```bash
+# Clonando um repositório
 
 ```
 
