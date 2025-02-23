@@ -6,6 +6,7 @@
 <h3>📚 Disciplinas</h3>
 
 [1. Gerenciamento de Configuração em Projetos com Git](#1)
+  [1.1. Configurações Iniciais do Git](#1.1)
 
 [2. Fundamentos do Desenvolvimento Back End com Node](#2)
 
@@ -34,7 +35,7 @@
 
 <h4> <a id="1">1. Gerenciamento de Configuração em Projetos com Git</a></h4>
 
-_**Configuração inicial do Git**_
+_**Configurações iniciais do Git**_
 
 ```bash
 # Localização do arquivo de configuração ( No Windows )
