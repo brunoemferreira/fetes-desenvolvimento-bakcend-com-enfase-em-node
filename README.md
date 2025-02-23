@@ -7,7 +7,7 @@
 
 [1. Gerenciamento de Configuração em Projetos com Git](#1)
 
-Configuração inicial do Git
+_**Configuração inicial do Git**_
 
 Localização do arquivo de configuração 
 ```bash
