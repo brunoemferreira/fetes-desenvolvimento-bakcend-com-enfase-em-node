@@ -11,12 +11,8 @@ _**Configuração inicial do Git**_
 
 Localização do arquivo de configuração ( No Windows )
 ```bash
-
 $ C:\USERS\#USERS\.gitconfig
 
-```
-
-```bash
 # Configurações Iniciais ( Estas informações podem ser encontradas no arquivo .gitconfig )
 # Essas informações são importantes pois ficam vinculadas a cada commit efetuado
 # Informa um nome de usuário 
@@ -29,10 +25,10 @@ $ git config --global user.email brunoemf@gmail.com
 $ git config --list
 # Carrega apenas a configuração da chave informada ou seja aqui retorna o nome do usuário
 $ git config user.name
+```
 
 
-
-
+```bash
 
 ```
 
