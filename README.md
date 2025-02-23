@@ -7,6 +7,29 @@
 
 [1. Gerenciamento de Configuração em Projetos com Git](#1)
 
+Configuração inicial do Git
+
+Localização do arquivo de configuração 
+```bash
+
+$ C:\USERS\#USERS\.gitconfig
+
+```
+
+```bash
+# 
+$
+
+```
+
+
+
+
+
+
+
+
+
 [2. Fundamentos do Desenvolvimento Back End com Node](#2)
 
 [3. Orientação a Objetos com Typescript no Node](#3)
