@@ -33,15 +33,15 @@
 
 <h4> <a id="1">1. Gerenciamento de Configuração em Projetos com Git</a></h4>
 <h4> <a id="2">2. Fundamentos do Desenvolvimento Back End com Node</a></h4>
-<h4> <a id="3"></a></h4>
-<h4> <a id="4"></a></h4>
-<h4> <a id="5"></a></h4>
-<h4> <a id="6"></a></h4>
-<h4> <a id="7"></a></h4>
-<h4> <a id="8"></a></h4>
-<h4> <a id="9"></a></h4>
-<h4> <a id="10"></a></h4>
-<h4> <a id="11">Gerenciamento de Configuração em Projetos com Git</a></h4>
-<h4> <a id="12">Gerenciamento de Configuração em Projetos com Git</a></h4>
+<h4> <a id="3">3. </a></h4>
+<h4> <a id="4">4. </a></h4>
+<h4> <a id="5">5. </a></h4>
+<h4> <a id="6">6. </a></h4>
+<h4> <a id="7">7. </a></h4>
+<h4> <a id="8">8. </a></h4>
+<h4> <a id="9">9. </a></h4>
+<h4> <a id="10">10. Metodologias Ativas: Perspectivas Teóricas e Práticas</a></h4>
+<h4> <a id="11">11. Empreendedorismo para Negócios Digitais</a></h4>
+<h4> <a id="12">12. </a>Metodologias Ágeis em Projetos de Tecnologia</h4>
 
 
