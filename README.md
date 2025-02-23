@@ -3,7 +3,7 @@
   <h3>FETES - Faculdade de Educação e Tecnologia do Espírito Santo</h3> 
 </div>
 
-<h3>Disciplinas</h3>
+<h3>📚 Disciplinas</h3>
 
 > Gerenciamento de Configuração em Projetos com Git
 
