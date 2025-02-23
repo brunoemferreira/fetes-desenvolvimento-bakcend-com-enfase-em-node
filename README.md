@@ -16,12 +16,19 @@
 [5. Micro Services com Node](#5)
 
 [6. Persistência de Dados com Node](#6)
+
 [7. Tópicos Avançados em Node](#7)
+
 [8. Projeto Simulado de Micro Services Usando Node](#8)
+
 [9. Metodologia da Pesquisa Aplicada à Produção de Paper](#9)
+
 [10. Metodologias Ativas: Perspectivas Teóricas e Práticas](#10)
+
 [11. Empreendedorismo para Negócios Digitais](#11)
+
 [12. Metodologias Ágeis em Projetos de Tecnologia](#12)
+
 
 
 <h4> <a id="1">Gerenciamento de Configuração em Projetos com Git</a></h4>
