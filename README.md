@@ -25,7 +25,13 @@ $ git config --global user.name "Bruno Eduardo de Moura Ferreira"
 $ git config --global user.email brunoemf@gmail.com
 
 # Listar as configurações do Git
+# Carrega todas as configurações 
 $ git config --list
+# Carrega apenas a configuração da chave informada ou seja aqui retorna o nome do usuário
+$ git config user.name
+
+
+
 
 
 ```
